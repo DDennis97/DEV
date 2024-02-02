@@ -76,14 +76,12 @@ einem neuen Wert aufgerufen. Anschließend rendert React die
 Komponente erneut und gibt ihr den neuen Wert für den 
 Count-State.
 
-> blockquote Hooks sind ein neues Feature in React 16.8.
+
+>Hooks sind ein neues Feature in **React 16.8.**
    
 
 ![React](logo192.png)
-**React - Markdown Previewer Project**
-[@freeCodeCamp]()
-
-
+[@freeCodeCamp](https://www.freecodecamp.org/)
 
 `);
 

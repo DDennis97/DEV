@@ -23,6 +23,29 @@ body {
   min-height: 300px;
 }
 
+#preview img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#preview h1 {
+  text-align: center;
+}
+
+#preview h2 {
+  text-align: center;
+}
+
+blockquote {
+  text-align: center;
+}
+
+#preview a {
+  text-decoration: none;
+  text-align: center;
+}
+
 pre, code {
  background-color: #ffffff;
 }
